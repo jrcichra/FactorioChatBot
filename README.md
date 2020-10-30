@@ -78,4 +78,4 @@ npm install webhook-discord --save
 
 npm install chokidar --save
 
-npm isntall rcon --save
+npm install rcon --save
